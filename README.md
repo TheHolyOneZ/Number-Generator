@@ -14,14 +14,18 @@ Join My discord: discord.gg/zsGTqgnsmK
  - Generate button with particle effects
  - Sound toggle system
  - Audio element for effects
+ - 
 ===============================================
+
 **Themes (5 Different Styles):**
 - Cyber
 - Neon
 - Galaxy
 - Fire
 - Ice
+- 
 ===============================================
+
 **Animation Effects (7 Options):**
 - Bounce (buggy)
 - 3D Spin (buggy)
@@ -30,7 +34,9 @@ Join My discord: discord.gg/zsGTqgnsmK
 - Explosion (buggy)
 - Portal
 - Rainbow
+- 
 ===============================================
+
 **Interactive Features:**
  - Custom number range inputs (default 1-100)
  - Particle effects on number display
