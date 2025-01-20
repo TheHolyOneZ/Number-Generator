@@ -1,5 +1,8 @@
 # Number-Generator
 Generates Randome numbers between 1-??? 
+
+Join My discord: discord.gg/zsGTqgnsmK 
+
 **HTML (index.html):**
  - Tilting Effect (Gui looks in the diraction where the cursor is)
  - Modern HTML5 structure
